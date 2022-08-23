@@ -1,18 +1,11 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-/aws.xml
-/compiler.xml
-/description.html
-/encodings.html
-/gradle.xml
-/misc.xml
-/modules.xml
-/uiDesigner.xml
-/vcs.xml
-/workspace.xml
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+workspace.xml
+aws.xmlcompiler.xml
+description.html
+encodings.html
+gradle.xml
+misc.xml
+modules.xmluiDesigner.xml
+vcs.xml
+workspace.xml
+
